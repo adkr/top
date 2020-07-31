@@ -65,7 +65,6 @@ public class Top1000<E> {
         }
         log.debug("getTop returning...");
         return result;
-        //aserobaba@luxoft.com
     }
 }
 
